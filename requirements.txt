@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+aiohttp
+replicate
+google.generativeai
+google
+websockets
